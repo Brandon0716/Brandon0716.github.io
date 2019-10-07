@@ -1,11 +1,11 @@
 # Site settings
-author: essential-robot-4364
-title: 
+author: Brandon
+title: MY path Through Flatiron
 header-img: img/home-bg.png
 email: brandon.james414@gmail.com
-copyright_name: essential-robot-4364
+copyright_name: Brandon
 description: > # this means to ignore newlines until "baseurl:"
-  
+  school
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Brandon0716
