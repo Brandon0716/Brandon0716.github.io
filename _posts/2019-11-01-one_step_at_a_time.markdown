@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "One Step at a time"
-date:       2019-11-01 16:25:06 +0000
+date:       2019-11-01 12:25:07 -0400
 permalink:  one_step_at_a_time
 ---
 
